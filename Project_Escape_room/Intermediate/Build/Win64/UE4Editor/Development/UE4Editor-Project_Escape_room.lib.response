@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Project_Escape_room.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Spill Laging\Unreal\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"E:\Spill Laging\GitHubUpload\escaperoomfirstproject\Project_Escape_room\Intermediate\Build\Win64\UE4Editor\Development\Project_Escape_room\Project_Escape_room.cpp.obj"
+"E:\Spill Laging\GitHubUpload\escaperoomfirstproject\Project_Escape_room\Intermediate\Build\Win64\UE4Editor\Development\Project_Escape_room\Project_Escape_roomGameModeBase.cpp.obj"
+"E:\Spill Laging\GitHubUpload\escaperoomfirstproject\Project_Escape_room\Intermediate\Build\Win64\UE4Editor\Development\Project_Escape_room\Project_Escape_room.init.gen.cpp.obj"
+"E:\Spill Laging\GitHubUpload\escaperoomfirstproject\Project_Escape_room\Intermediate\Build\Win64\UE4Editor\Development\Project_Escape_room\Project_Escape_roomGameModeBase.gen.cpp.obj"
+"E:\Spill Laging\Unreal\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\Project_Escape_room\PCLaunch.rc.res"
+"E:\Spill Laging\Unreal\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"E:\Spill Laging\GitHubUpload\escaperoomfirstproject\Project_Escape_room\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Project_Escape_room.lib"
